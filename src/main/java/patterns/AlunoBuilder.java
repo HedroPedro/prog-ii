@@ -9,7 +9,7 @@ package patterns;
  * @author pedro
  */
 public class AlunoBuilder {
-    Aluno aluno;
+    private Aluno aluno;
     
     public AlunoBuilder(){
         aluno = new Aluno();
